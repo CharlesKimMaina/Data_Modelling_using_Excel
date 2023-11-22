@@ -1,6 +1,6 @@
 # Data_Modelling_using_Excel, replacing VLOOK-Ups
-Import (GET DATA) the first main data into excel, click transform to send it to power query just incase you need to clean it or reformat it or add extra columns.
-On power query on the right-most corner, click SOURCE, then file and get excel importing the 2nd file n when the 2nd data excel is loaded, click OK. Now yout have 2 files in the power query.
+#Import (GET DATA) the first main data into excel, click transform to send it to power query just incase you need to clean it or reformat it or add extra columns.
+#On power query on the right-most corner, click SOURCE, then file and get excel importing the 2nd file n when the 2nd data excel is loaded, click OK. Now yout have 2 files in the power query.
 After the 2files are loaded, click CLOSE and LOAD TO and load it in POWERPIVOT and tick✅ add this data to Data model (so that we can do the relationship) and click OK. 
 Now go to DATAMODEL, by clicking DATA, then the GREENHOUSE-ICON, click it and enable, and it now opens POWERPIVOT for us, 
 On POWERPIVOT, click DIAGRAM VIEW on the3rd right-most icon, called "Diagram-view".
